@@ -2,6 +2,7 @@
  *     by Dejan Nedelkovski, www.HowToMechatronics.com
  *  
  *     Modified by Keyur Jain
+ *
  */
  #include <LiquidCrystal.h> // includes the LiquidCrystal Library 
 LiquidCrystal lcd(12, 11, 5, 4, 3, 2);
